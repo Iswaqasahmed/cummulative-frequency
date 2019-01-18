@@ -1,0 +1,6 @@
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\bin\Debug\cummulative frequency.exe.config
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\bin\Debug\cummulative frequency.exe
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\bin\Debug\cummulative frequency.pdb
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\obj\Debug\cummulative frequency.csprojResolveAssemblyReference.cache
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\obj\Debug\cummulative frequency.exe
+C:\Users\Waqas\Documents\Visual Studio 2013\Projects\window base\C#\cummulative frequency\cummulative frequency\obj\Debug\cummulative frequency.pdb
